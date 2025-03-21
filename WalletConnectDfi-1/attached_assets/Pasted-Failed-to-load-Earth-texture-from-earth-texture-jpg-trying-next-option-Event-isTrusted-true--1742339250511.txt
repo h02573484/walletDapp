@@ -1,0 +1,35 @@
+Failed to load Earth texture from /earth-texture.jpg, trying next option 
+Event {isTrusted: true}
+
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+All texture loading attempts failed, using procedural texture
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load Earth texture from /earth-texture.jpg, trying next option 
+Event {isTrusted: true}
+isTrusted: true
+get isTrusted: ƒ get isTrusted()
+[[Prototype]]: Event
+
+All texture loading attempts failed, using procedural texture
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load Earth texture from /earth-texture.jpg, trying next option 
+Event {isTrusted: true}
+isTrusted: true
+get isTrusted: ƒ get isTrusted()
+[[Prototype]]: Event
+
+All texture loading attempts failed, using procedural texture
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://52bb7b6b-d51f-41be-8cb3-78296edb7eaf-00-2t2fkdvrtw3rg.picard.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Using simple clouds

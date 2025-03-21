@@ -1,0 +1,175 @@
+../dist/public/assets/App-QZfwdIyf.js               312.03 kB │ gzip: 95.19 kB
+✓ built in 5.14s
+==> Uploading build...
+==> Uploaded in 5.4s. Compression took 4.2s
+==> Build successful 🎉
+==> Deploying...
+==> Running 'cd server && npm start'
+> rest-express@1.0.0 start
+> NODE_ENV=production tsx server/index.ts
+12:17:42 PM [postgresql://neondb_owner:npg_q9TeEl0PMCgQ@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require] Attempting to connect to database:
+12:17:43 PM [express] Initializing database storage...
+12:17:43 PM [express] Session store initialized successfully
+12:17:43 PM [express] Starting server initialization...
+12:17:43 PM [express] Using database URL: postgresql://<CREDENTIALS>@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require
+12:17:43 PM [express] Express app created
+12:17:43 PM [express] Configuring session middleware...
+12:17:43 PM [express] Starting server...
+12:17:43 PM [express] Environment: production
+12:17:43 PM [express] Registering routes...
+12:17:43 PM [express] Admin routes registered
+12:17:43 PM [express] Wallet routes registered
+12:17:43 PM [express] Routes registered successfully
+12:17:43 PM [express] Setting up static file serving...
+12:17:43 PM [express] Server running on port 10000
+12:17:43 PM [express] Server started successfully
+12:17:43 PM [password authentication failed for user 'neondb_owner'] Database connection error:
+12:17:43 PM [error: password authentication failed for user 'neondb_owner'
+    at file:///opt/render/project/src/WalletConnectDfi-1/node_modules/@neondatabase/serverless/index.mjs:1345:74
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (/opt/render/project/src/WalletConnectDfi-1/server/db.ts:37:20)] Error stack:
+12:17:43 PM [express] Application will continue but database features may not work correctly
+12:17:43 PM [express] Session Debug - Admin: false
+12:17:43 PM [express] HEAD / 200 in 5ms
+12:17:43 PM [error: password authentication failed for user 'neondb_owner'] Error creating session table:
+==> Your service is live 🎉
+12:17:45 PM [express] Session Debug - Admin: false
+12:17:45 PM [express] GET / 200 in 4ms
+==> Detected service running on port 10000
+==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+12:28:50 PM [express] Session Debug - Admin: false
+12:28:50 PM [express] GET / 200 in 10ms
+12:28:50 PM [express] Session Debug - Admin: false
+12:28:50 PM [express] GET /assets/index-CKA9CmC9.js 200 in 5ms
+12:28:50 PM [express] Session Debug - Admin: false
+12:28:50 PM [express] Session Debug - Admin: false
+12:28:50 PM [express] GET /assets/wallet-D7HrI6pR.js 200 in 6ms
+12:28:50 PM [express] GET /assets/index-DpHHNTUs.css 200 in 14ms
+12:28:50 PM [express] Session Debug - Admin: false
+12:28:50 PM [express] GET /assets/vendor-Us01Jbnx.js 200 in 7ms
+12:28:51 PM [express] Session Debug - Admin: false
+12:28:51 PM [express] GET /assets/ui-ClmKvUTZ.js 200 in 18ms
+12:28:51 PM [express] Session Debug - Admin: false
+12:28:51 PM [express] GET /assets/App-QZfwdIyf.js 200 in 38ms
+12:28:51 PM [express] Session Debug - Admin: false
+12:28:51 PM [express] GET /favicon.ico 200 in 16ms
+12:28:52 PM [express] Session Debug - Admin: false
+12:28:52 PM [express] GET /images/logo.png 200 in 10ms
+12:28:52 PM [express] Session Debug - Admin: false
+12:28:52 PM [express] GET /background.png 200 in 6ms
+12:29:03 PM [express] Session Debug - Admin: false
+12:29:03 PM [express] GET /admin/login 200 in 2ms
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] GET /assets/vendor-Us01Jbnx.js 304 in 5ms
+12:29:04 PM [express] GET /assets/index-CKA9CmC9.js 304 in 6ms
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] GET /assets/wallet-D7HrI6pR.js 304 in 2ms
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] GET /assets/index-DpHHNTUs.css 304 in 1ms
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] GET /assets/App-QZfwdIyf.js 304 in 3ms
+12:29:04 PM [express] GET /assets/ui-ClmKvUTZ.js 304 in 1ms
+12:29:04 PM [express] Session Debug - Admin: false
+12:29:04 PM [express] GET /favicon.ico 304 in 2ms
+12:29:05 PM [express] Session Debug - Admin: false
+12:29:05 PM [express] GET /images/logo.png 304 in 1ms
+12:29:05 PM [express] Session Debug - Admin: false
+12:29:05 PM [express] GET /background.png 304 in 2ms
+12:29:08 PM [express] Session Debug - Admin: false
+12:29:08 PM [express] Admin login attempt
+12:29:08 PM [express] Received password length: 11
+12:29:08 PM [error: password authentication failed for user 'neondb_owner'] Session save error:
+12:29:08 PM [password authentication failed for user 'neondb_owner'] Admin login error:
+12:29:08 PM [express] POST /api/admin/login 500 in 80ms :: {"error":"Internal server error"}
+12:29:08 PM [express] Error: password authentication failed for user 'neondb_owner'
+12:29:08 PM [express] GET /api/admin/session 500 in 24ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+12:29:15 PM [express] Error: password authentication failed for user 'neondb_owner'
+12:29:15 PM [express] POST /api/admin/login 500 in 35ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+12:29:15 PM [express] Error: password authentication failed for user 'neondb_owner'
+12:29:15 PM [express] GET /api/admin/session 500 in 33ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+3:44:40 PM [express] Application will continue but database features may not work correctly
+3:44:40 PM [error: password authentication failed for user 'neondb_owner'] Error creating session table:
+==> Running 'cd server && npm start'
+> rest-express@1.0.0 start
+> NODE_ENV=production tsx server/index.ts
+1:42:23 AM [postgresql://neondb_owner:npg_q9TeEl0PMCgQ@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require] Attempting to connect to database:
+1:42:24 AM [express] Initializing database storage...
+1:42:24 AM [express] Session store initialized successfully
+1:42:24 AM [express] Starting server initialization...
+1:42:24 AM [express] Using database URL: postgresql://<CREDENTIALS>@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require
+1:42:24 AM [express] Express app created
+1:42:24 AM [express] Configuring session middleware...
+1:42:24 AM [express] Starting server...
+1:42:24 AM [express] Environment: production
+1:42:24 AM [express] Registering routes...
+1:42:24 AM [express] Admin routes registered
+1:42:24 AM [express] Wallet routes registered
+1:42:24 AM [express] Routes registered successfully
+1:42:24 AM [express] Setting up static file serving...
+1:42:24 AM [express] Server running on port 10000
+1:42:24 AM [express] Server started successfully
+1:42:24 AM [password authentication failed for user 'neondb_owner'] Database connection error:
+1:42:24 AM [error: password authentication failed for user 'neondb_owner'
+    at file:///opt/render/project/src/WalletConnectDfi-1/node_modules/@neondatabase/serverless/index.mjs:1345:74
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async <anonymous> (/opt/render/project/src/WalletConnectDfi-1/server/db.ts:37:20)] Error stack:
+1:42:24 AM [express] Application will continue but database features may not work correctly
+1:42:24 AM [error: password authentication failed for user 'neondb_owner'] Error creating session table:
+1:42:30 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:30 AM [express] GET / 500 in 27ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:42:30 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:30 AM [express] GET / 500 in 17ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:42:30 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:30 AM [express] GET / 500 in 40ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:42:30 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:30 AM [express] GET /favicon.ico 500 in 18ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:42:53 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:53 AM [express] GET / 500 in 24ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:42:53 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:42:53 AM [express] GET /favicon.ico 500 in 23ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:43:41 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:43:41 AM [express] GET / 500 in 48ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:43:42 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:43:42 AM [express] GET /favicon.ico 500 in 30ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:44:01 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:44:01 AM [express] GET / 500 in 32ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:44:02 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:44:02 AM [express] GET /favicon.ico 500 in 26ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:44:07 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:44:07 AM [express] GET / 500 in 26ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:44:07 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:44:07 AM [express] GET /favicon.ico 500 in 23ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:45:07 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:45:07 AM [express] GET / 500 in 94ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:45:07 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:45:07 AM [express] GET /favicon.ico 500 in 67ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:45:50 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:45:50 AM [express] GET / 500 in 149ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+1:45:50 AM [express] Error: password authentication failed for user 'neondb_owner'
+1:45:50 AM [express] GET /favicon.ico 500 in 23ms :: {"message":"password authentication failed for user 'neondb_owner'"}
+Failed to prune sessions: error: password authentication failed for user 'neondb_owner'
+    at /opt/render/project/src/WalletConnectDfi-1/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PGStore._asyncQuery (/opt/render/project/src/WalletConnectDfi-1/node_modules/connect-pg-simple/index.js:322:21) {
+  length: 75,
+  severity: 'ERROR',
+  code: 'XX000',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: undefined,
+  line: undefined,
+  routine: undefined
+}
+You can also use theRender CLIto explore logs in your command line.
+

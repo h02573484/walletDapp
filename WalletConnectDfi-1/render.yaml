@@ -1,0 +1,47 @@
+services:
+  - type: web
+    name: wallet-connect-app
+    env: node
+    buildCommand: |
+      npm ci
+      chmod +x scripts/build-for-render.sh
+      ./scripts/build-for-render.sh
+    startCommand: chmod +x scripts/render-start.sh && ./scripts/render-start.sh
+    buildFilter:
+      paths:
+      - client/**/*
+      - server/**/*
+      - shared/**/*
+      - scripts/**/*
+      - public/**/*
+      - vite.config.ts
+      - package.json
+      - tsconfig.json
+      - tailwind.config.ts
+      - postcss.config.js
+      - drizzle.config.ts
+      ignoredPaths:
+      - node_modules
+      - dist
+      - .git
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: DATABASE_URL
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true
+    healthCheckPath: /api/health
+    disk:
+      name: data
+      mountPath: /data
+      sizeGB: 5  # Increase disk size for more storage
+    autoscaling:
+      min: 1      # Always have at least one instance
+      max: 1      # Limit to one instance to avoid consistency issues
+    persistentStorage:
+      enabled: true
+      mountPath: /data
+      sizeGB: 5

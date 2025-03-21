@@ -1,0 +1,28 @@
+[vite] connecting...
+[vite] connected.
+The OPENAI_API_KEY environment variable is missing or empty; either provide it, or instantiate the OpenAI client with an apiKey option, like new OpenAI({ apiKey: 'My API Key' }).
+at new OpenAI (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/openai.js?v=d5f107f2:5601:13)
+at https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/src/lib/openai.ts:2:16
+The OPENAI_API_KEY environment variable is missing or empty; either provide it, or instantiate the OpenAI client with an apiKey option, like new OpenAI({ apiKey: 'My API Key' }).
+at new OpenAI (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/openai.js?v=d5f107f2:5601:13)
+at https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/src/lib/openai.ts:2:16
+The above error occurred in one of your React components:
+
+    at Lazy
+    at Suspense
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+
+at Lazy
+at Suspense
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+at t.value (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+The OPENAI_API_KEY environment variable is missing or empty; either provide it, or instantiate the OpenAI client with an apiKey option, like new OpenAI({ apiKey: 'My API Key' }).
+at new OpenAI (https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/openai.js?v=d5f107f2:5601:13)
+at https://3583862f-b4ee-4c2f-987b-5f7f9d09e0fe-00-3o87ki874c8bh.kirk.replit.dev/src/lib/openai.ts:2:16

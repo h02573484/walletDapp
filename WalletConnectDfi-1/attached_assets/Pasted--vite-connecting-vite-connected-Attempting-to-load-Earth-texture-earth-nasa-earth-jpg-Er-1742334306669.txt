@@ -1,0 +1,27 @@
+[vite] connecting...
+[vite] connected.
+Attempting to load Earth texture: /earth/nasa_earth.jpg
+Error loading Earth texture: 
+Event {isTrusted: true}
+
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Using fallback material for Earth
+Error loading Earth texture: 
+Event {isTrusted: true}
+
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Using fallback material for Earth
+Error loading Earth texture: 
+Event {isTrusted: true}
+
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://c55a01a7-4663-4c4e-ab75-b1045573ec63-00-2xgvn5naknqka.worf.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Using fallback material for Earth

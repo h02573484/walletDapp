@@ -1,0 +1,62 @@
+mpting to connect to database:
+3:49:29 PM [express] Initializing database storage...
+3:49:29 PM [express] Error creating data directory: EACCES: permission denied, mkdir '/data'
+3:49:29 PM [express] No local storage file found, starting with empty connections
+3:49:29 PM [express] Session store initialized with database and memory fallback
+3:49:29 PM [express] Error creating backup directory: EACCES: permission denied, mkdir '/data/backups'
+3:49:29 PM [express] Starting server initialization...
+3:49:29 PM [express] Using database URL: postgresql://<CREDENTIALS>@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require
+3:49:29 PM [express] Express app created
+3:49:29 PM [express] Configuring session middleware...
+3:49:29 PM [express] Critical error during initialization: store.on is not a function
+3:49:29 PM [express] TypeError: store.on is not a function
+    at session (/opt/render/project/src/WalletConnectDfi-1/node_modules/express-session/index.js:172:9)
+    at <anonymous> (/opt/render/project/src/WalletConnectDfi-1/server/index.ts:48:5)
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+==> Exited with status 1
+==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
+==> Running 'cd server && npm start'
+> rest-express@1.0.0 start
+> NODE_ENV=production tsx server/index.ts
+3:50:03 PM [postgresql://neondb_owner:npg_q9TeEl0PMCgQ@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require] Attempting to connect to database:
+3:50:04 PM [express] Initializing database storage...
+3:50:04 PM [express] Error creating data directory: EACCES: permission denied, mkdir '/data'
+3:50:04 PM [express] No local storage file found, starting with empty connections
+3:50:04 PM [express] Session store initialized with database and memory fallback
+3:50:04 PM [express] Error creating backup directory: EACCES: permission denied, mkdir '/data/backups'
+3:50:04 PM [express] Starting server initialization...
+3:50:04 PM [express] Using database URL: postgresql://<CREDENTIALS>@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require
+3:50:04 PM [express] Express app created
+3:50:04 PM [express] Configuring session middleware...
+3:50:04 PM [express] Critical error during initialization: store.on is not a function
+3:50:04 PM [express] TypeError: store.on is not a function
+    at session (/opt/render/project/src/WalletConnectDfi-1/node_modules/express-session/index.js:172:9)
+    at <anonymous> (/opt/render/project/src/WalletConnectDfi-1/server/index.ts:48:5)
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+==> Running 'cd server && npm start'
+> rest-express@1.0.0 start
+> NODE_ENV=production tsx server/index.ts
+3:50:58 PM [postgresql://neondb_owner:npg_q9TeEl0PMCgQ@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require] Attempting to connect to database:
+3:51:00 PM [express] Initializing database storage...
+3:51:00 PM [express] Error creating data directory: EACCES: permission denied, mkdir '/data'
+3:51:00 PM [express] No local storage file found, starting with empty connections
+3:51:00 PM [express] Session store initialized with database and memory fallback
+3:51:00 PM [express] Error creating backup directory: EACCES: permission denied, mkdir '/data/backups'
+3:51:00 PM [express] Starting server initialization...
+3:51:00 PM [express] Using database URL: postgresql://<CREDENTIALS>@ep-patient-salad-a6zwo1o1.us-west-2.aws.neon.tech/neondb?sslmode=require
+3:51:00 PM [express] Express app created
+3:51:00 PM [express] Configuring session middleware...
+3:51:00 PM [express] Critical error during initialization: store.on is not a function
+3:51:00 PM [express] TypeError: store.on is not a function
+    at session (/opt/render/project/src/WalletConnectDfi-1/node_modules/express-session/index.js:172:9)
+    at <anonymous> (/opt/render/project/src/WalletConnectDfi-1/server/index.ts:48:5)
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+You can also use theRender CLIto explore logs in your command line.
+
+Looking fo

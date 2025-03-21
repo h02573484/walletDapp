@@ -1,0 +1,294 @@
+11:23:05 PM [express] Database connection successful
+11:23:05 PM [express] HEAD / 200 in 143ms
+11:23:06 PM [express] Session Debug - Admin: false
+11:23:06 PM [express] GET / 200 in 10ms
+11:23:31 PM [express] Session Debug - Admin: false
+11:23:31 PM [express] GET / 200 in 10ms
+11:23:32 PM [express] Session Debug - Admin: false
+11:23:32 PM [express] GET /assets/wallet-D7HrI6pR.js 200 in 7ms
+11:23:32 PM [express] Session Debug - Admin: false
+11:23:32 PM [express] Session Debug - Admin: false
+11:23:32 PM [express] GET /assets/vendor-Us01Jbnx.js 200 in 15ms
+11:23:32 PM [express] GET /assets/index-C6opzbB_.css 200 in 17ms
+11:23:32 PM [express] Session Debug - Admin: false
+11:23:32 PM [express] GET /assets/index-BGjudeNO.js 200 in 9ms
+11:23:33 PM [express] Session Debug - Admin: false
+11:23:33 PM [express] GET /assets/ui-ClmKvUTZ.js 200 in 7ms
+11:23:33 PM [express] Session Debug - Admin: false
+11:23:33 PM [express] GET /assets/App-C1kD5Gb5.js 200 in 14ms
+11:23:33 PM [express] Session Debug - Admin: false
+11:23:33 PM [express] GET /favicon.ico 200 in 13ms
+11:23:34 PM [express] Session Debug - Admin: false
+11:23:34 PM [express] GET /images/logo.png 200 in 9ms
+11:23:34 PM [express] Session Debug - Admin: false
+11:23:34 PM [express] GET /background.png 200 in 10ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /favicon.ico 304 in 10ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/metamask_wallet-DbP2k5in.png 200 in 7ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/atomic_wallet-D24oiHVq.png 200 in 6ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/coinbase_wallet-ChP12sqt.png 200 in 7ms
+11:23:39 PM [express] GET /assets/bitgo_wallet-DpvLYVBQ.png 200 in 10ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/trust_wallet-ku8VrSBq.png 200 in 15ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/exodus_wallet-DWbWSZY3.png 200 in 9ms
+11:23:39 PM [express] GET /assets/zengo_wallet-B4hnZ6Ho.png 200 in 8ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/myetherwallet-Bjkbab-Y.png 200 in 8ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/phantom_wallet-BRxSTTrq.png 200 in 13ms
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] Session Debug - Admin: false
+11:23:39 PM [express] GET /assets/safepal_wallet-UmoXr-IL.png 200 in 75ms
+11:23:39 PM [express] GET /assets/binance_wallet-Cu5zgiin.png 200 in 30ms
+11:23:39 PM [express] GET /assets/1inch_wallet-D_UDvwxd.png 200 in 139ms
+11:23:59 PM [express] Session Debug - Admin: false
+11:23:59 PM [express] GET /admin/login 200 in 7ms
+11:24:00 PM [express] Session Debug - Admin: false
+11:24:00 PM [express] GET /assets/index-BGjudeNO.js 304 in 5ms
+11:24:00 PM [express] Session Debug - Admin: false
+11:24:00 PM [express] GET /assets/index-C6opzbB_.css 304 in 9ms
+11:24:00 PM [express] Session Debug - Admin: false
+11:24:00 PM [express] GET /assets/vendor-Us01Jbnx.js 304 in 9ms
+11:24:00 PM [express] Session Debug - Admin: false
+11:24:00 PM [express] GET /assets/wallet-D7HrI6pR.js 304 in 12ms
+11:24:01 PM [express] Session Debug - Admin: false
+11:24:01 PM [express] GET /assets/App-C1kD5Gb5.js 304 in 6ms
+11:24:01 PM [express] Session Debug - Admin: false
+11:24:01 PM [express] GET /assets/ui-ClmKvUTZ.js 304 in 5ms
+11:24:01 PM [express] Session Debug - Admin: false
+11:24:01 PM [express] GET /favicon.ico 304 in 5ms
+11:24:01 PM [express] Session Debug - Admin: false
+11:24:01 PM [express] GET /images/logo.png 304 in 6ms
+11:24:01 PM [express] Session Debug - Admin: false
+11:24:01 PM [express] GET /background.png 304 in 6ms
+11:24:04 PM [express] Session Debug - Admin: false
+11:24:04 PM [express] Admin login attempt
+11:24:04 PM [express] Received password length: 11
+11:24:04 PM [express] Admin login successful
+11:24:04 PM [{"isAdmin":true}] Session state after login:
+11:24:04 PM [express] POST /api/admin/login 200 in 22ms :: {"success":true}
+11:24:04 PM [express] Session Debug - Admin: false
+11:24:04 PM [express] Session check - isAdmin: false
+11:24:04 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:04.990Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:05 PM [express] GET /api/admin/session 304 in 11ms :: {"isAdmin":false}
+11:24:05 PM [express] Session Debug - Admin: false
+11:24:05 PM [express] GET /favicon.ico 304 in 9ms
+11:24:05 PM [express] Session Debug - Admin: false
+11:24:05 PM [express] Session check - isAdmin: false
+11:24:05 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:05.603Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:05 PM [express] GET /api/admin/session 200 in 10ms :: {"isAdmin":false}
+11:24:06 PM [express] Session Debug - Admin: false
+11:24:06 PM [express] GET /favicon.ico 304 in 6ms
+11:24:10 PM [express] Session Debug - Admin: false
+11:24:10 PM [express] Admin login attempt
+11:24:10 PM [express] Received password length: 11
+11:24:10 PM [express] Admin login successful
+11:24:10 PM [{"isAdmin":true}] Session state after login:
+11:24:10 PM [express] POST /api/admin/login 200 in 1ms :: {"success":true}
+11:24:10 PM [express] Session Debug - Admin: false
+11:24:10 PM [express] Session check - isAdmin: false
+11:24:10 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:10.596Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:10 PM [express] GET /api/admin/session 304 in 10ms :: {"isAdmin":false}
+11:24:11 PM [express] Session Debug - Admin: false
+11:24:11 PM [express] Session check - isAdmin: false
+11:24:11 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:11.263Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:11 PM [express] GET /api/admin/session 200 in 6ms :: {"isAdmin":false}
+11:24:11 PM [express] Session Debug - Admin: false
+11:24:11 PM [express] GET /favicon.ico 304 in 6ms
+11:24:11 PM [express] Session Debug - Admin: false
+11:24:11 PM [express] GET /favicon.ico 304 in 6ms
+11:24:16 PM [express] Session Debug - Admin: false
+11:24:16 PM [express] Admin login attempt
+11:24:16 PM [express] Received password length: 11
+11:24:16 PM [express] Admin login successful
+11:24:16 PM [{"isAdmin":true}] Session state after login:
+11:24:16 PM [express] POST /api/admin/login 200 in 2ms :: {"success":true}
+11:24:16 PM [express] Session Debug - Admin: false
+11:24:16 PM [express] Session check - isAdmin: false
+11:24:16 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:16.482Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:16 PM [express] GET /api/admin/session 304 in 6ms :: {"isAdmin":false}
+11:24:16 PM [express] Session Debug - Admin: false
+11:24:16 PM [express] GET /favicon.ico 304 in 7ms
+11:24:16 PM [express] Session Debug - Admin: false
+11:24:16 PM [express] Session check - isAdmin: false
+11:24:16 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:16.898Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:16 PM [express] GET /api/admin/session 200 in 7ms :: {"isAdmin":false}
+11:24:17 PM [express] Session Debug - Admin: false
+11:24:17 PM [express] GET /favicon.ico 304 in 6ms
+11:24:32 PM [express] Session Debug - Admin: false
+11:24:32 PM [express] GET /admin/dashboard 200 in 12ms
+11:24:32 PM [express] Session Debug - Admin: false
+11:24:32 PM [express] GET /assets/wallet-D7HrI6pR.js 304 in 6ms
+11:24:32 PM [express] Session Debug - Admin: false
+11:24:32 PM [express] GET /assets/vendor-Us01Jbnx.js 304 in 7ms
+11:24:32 PM [express] Session Debug - Admin: false
+11:24:32 PM [express] GET /assets/index-BGjudeNO.js 304 in 8ms
+11:24:32 PM [express] Session Debug - Admin: false
+11:24:32 PM [express] GET /assets/index-C6opzbB_.css 304 in 8ms
+11:24:33 PM [express] Session Debug - Admin: false
+11:24:33 PM [express] GET /assets/App-C1kD5Gb5.js 304 in 6ms
+11:24:33 PM [express] Session Debug - Admin: false
+11:24:33 PM [express] Session Debug - Admin: false
+11:24:33 PM [express] GET /assets/ui-ClmKvUTZ.js 304 in 16ms
+11:24:33 PM [express] GET /favicon.ico 304 in 36ms
+11:24:34 PM [express] Session Debug - Admin: false
+11:24:34 PM [express] GET /images/logo.png 304 in 10ms
+11:24:34 PM [express] Session Debug - Admin: false
+11:24:34 PM [express] Session check - isAdmin: false
+11:24:34 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:34.122Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:34 PM [express] Session Debug - Admin: false
+11:24:34 PM [express] GET /api/admin/session 200 in 9ms :: {"isAdmin":false}
+11:24:34 PM [express] GET /background.png 304 in 6ms
+11:24:34 PM [express] Session Debug - Admin: false
+11:24:34 PM [express] GET /favicon.ico 304 in 9ms
+11:24:37 PM [express] Session Debug - Admin: false
+11:24:37 PM [express] Admin login attempt
+11:24:37 PM [express] Received password length: 11
+11:24:37 PM [express] Admin login successful
+11:24:37 PM [{"isAdmin":true}] Session state after login:
+11:24:37 PM [express] POST /api/admin/login 200 in 3ms :: {"success":true}
+11:24:38 PM [express] Session Debug - Admin: false
+11:24:38 PM [express] Session check - isAdmin: false
+11:24:38 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:38.125Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:38 PM [express] GET /api/admin/session 304 in 7ms :: {"isAdmin":false}
+11:24:38 PM [express] Session Debug - Admin: false
+11:24:38 PM [express] Session check - isAdmin: false
+11:24:38 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:24:38.822Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:24:38 PM [express] GET /api/admin/session 200 in 6ms :: {"isAdmin":false}
+11:24:38 PM [express] Session Debug - Admin: false
+11:24:38 PM [express] GET /favicon.ico 304 in 5ms
+11:24:39 PM [express] Session Debug - Admin: false
+11:24:39 PM [express] GET /favicon.ico 304 in 6ms
+11:25:15 PM [express] Session Debug - Admin: false
+11:25:15 PM [express] Admin login attempt
+11:25:15 PM [express] Received password length: 11
+11:25:15 PM [express] Admin login successful
+11:25:15 PM [{"isAdmin":true}] Session state after login:
+11:25:15 PM [express] POST /api/admin/login 200 in 4ms :: {"success":true}
+11:25:15 PM [express] Session Debug - Admin: false
+11:25:15 PM [express] Session check - isAdmin: false
+11:25:15 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:15.941Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:15 PM [express] GET /api/admin/session 304 in 7ms :: {"isAdmin":false}
+11:25:16 PM [express] Session Debug - Admin: false
+11:25:16 PM [express] Session check - isAdmin: false
+11:25:16 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:16.444Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:16 PM [express] GET /api/admin/session 200 in 6ms :: {"isAdmin":false}
+11:25:16 PM [express] Session Debug - Admin: false
+11:25:16 PM [express] GET /favicon.ico 304 in 7ms
+11:25:16 PM [express] Session Debug - Admin: false
+11:25:16 PM [express] GET /favicon.ico 304 in 6ms
+11:25:17 PM [express] Session Debug - Admin: false
+11:25:17 PM [express] Admin login attempt
+11:25:17 PM [express] Received password length: 11
+11:25:17 PM [express] Admin login successful
+11:25:17 PM [{"isAdmin":true}] Session state after login:
+11:25:17 PM [express] POST /api/admin/login 200 in 3ms :: {"success":true}
+11:25:18 PM [express] Session Debug - Admin: false
+11:25:18 PM [express] Session check - isAdmin: false
+11:25:18 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:18.274Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:18 PM [express] GET /api/admin/session 304 in 7ms :: {"isAdmin":false}
+11:25:18 PM [express] Session Debug - Admin: false
+11:25:18 PM [express] Session check - isAdmin: false
+11:25:18 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:18.711Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:18 PM [express] GET /api/admin/session 200 in 7ms :: {"isAdmin":false}
+11:25:18 PM [express] Session Debug - Admin: false
+11:25:18 PM [express] GET /favicon.ico 304 in 6ms
+11:25:19 PM [express] Session Debug - Admin: false
+11:25:19 PM [express] GET /favicon.ico 304 in 6ms
+11:25:20 PM [express] Session Debug - Admin: false
+11:25:20 PM [express] Admin login attempt
+11:25:20 PM [express] Received password length: 11
+11:25:20 PM [express] Admin login successful
+11:25:20 PM [{"isAdmin":true}] Session state after login:
+11:25:20 PM [express] POST /api/admin/login 200 in 2ms :: {"success":true}
+11:25:20 PM [express] Session Debug - Admin: false
+11:25:20 PM [express] Session check - isAdmin: false
+11:25:20 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:20.556Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:20 PM [express] GET /api/admin/session 304 in 16ms :: {"isAdmin":false}
+11:25:20 PM [express] Session Debug - Admin: false
+11:25:21 PM [express] GET /favicon.ico 304 in 6ms
+11:25:21 PM [express] Session Debug - Admin: false
+11:25:21 PM [express] Session check - isAdmin: false
+11:25:21 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:21.010Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:21 PM [express] GET /api/admin/session 200 in 11ms :: {"isAdmin":false}
+11:25:21 PM [express] Session Debug - Admin: false
+11:25:21 PM [express] GET /favicon.ico 304 in 7ms
+11:25:35 PM [express] Session Debug - Admin: false
+11:25:35 PM [express] Admin login attempt
+11:25:35 PM [express] Received password length: 11
+11:25:35 PM [express] Admin login successful
+11:25:35 PM [{"isAdmin":true}] Session state after login:
+11:25:35 PM [express] POST /api/admin/login 200 in 2ms :: {"success":true}
+11:25:35 PM [express] Session Debug - Admin: false
+11:25:35 PM [express] Session check - isAdmin: false
+11:25:35 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:35.616Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:35 PM [express] GET /api/admin/session 304 in 11ms :: {"isAdmin":false}
+11:25:36 PM [express] Session Debug - Admin: false
+11:25:36 PM [express] GET /favicon.ico 304 in 6ms
+11:25:36 PM [express] Session Debug - Admin: false
+11:25:36 PM [express] Session check - isAdmin: false
+11:25:36 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:36.133Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:36 PM [express] GET /api/admin/session 200 in 5ms :: {"isAdmin":false}
+11:25:36 PM [express] Session Debug - Admin: false
+11:25:36 PM [express] GET /favicon.ico 304 in 14ms
+11:25:38 PM [express] Session Debug - Admin: false
+11:25:38 PM [express] Admin login attempt
+11:25:38 PM [express] Received password length: 11
+11:25:38 PM [express] Admin login successful
+11:25:38 PM [{"isAdmin":true}] Session state after login:
+11:25:38 PM [express] POST /api/admin/login 200 in 3ms :: {"success":true}
+11:25:38 PM [express] Session Debug - Admin: false
+11:25:38 PM [express] Session check - isAdmin: false
+11:25:38 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:38.432Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:38 PM [express] GET /api/admin/session 304 in 6ms :: {"isAdmin":false}
+11:25:38 PM [express] Session Debug - Admin: false
+11:25:38 PM [express] Session check - isAdmin: false
+11:25:38 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:38.975Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:38 PM [express] GET /api/admin/session 200 in 7ms :: {"isAdmin":false}
+11:25:38 PM [express] Session Debug - Admin: false
+11:25:38 PM [express] GET /favicon.ico 304 in 6ms
+11:25:39 PM [express] Session Debug - Admin: false
+11:25:39 PM [express] GET /favicon.ico 304 in 7ms
+11:25:40 PM [express] Session Debug - Admin: false
+11:25:40 PM [express] Admin login attempt
+11:25:40 PM [express] Received password length: 11
+11:25:40 PM [express] Admin login successful
+11:25:40 PM [{"isAdmin":true}] Session state after login:
+11:25:40 PM [express] POST /api/admin/login 200 in 2ms :: {"success":true}
+11:25:41 PM [express] Session Debug - Admin: false
+11:25:41 PM [express] Session check - isAdmin: false
+11:25:41 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:41.331Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:41 PM [express] GET /api/admin/session 304 in 6ms :: {"isAdmin":false}
+11:25:42 PM [express] Session Debug - Admin: false
+11:25:42 PM [express] Session check - isAdmin: false
+11:25:42 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:42.009Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:42 PM [express] GET /api/admin/session 200 in 10ms :: {"isAdmin":false}
+11:25:42 PM [express] Session Debug - Admin: false
+11:25:42 PM [express] GET /favicon.ico 304 in 10ms
+11:25:42 PM [express] Session Debug - Admin: false
+11:25:42 PM [express] GET /favicon.ico 304 in 17ms
+11:25:46 PM [express] Session Debug - Admin: false
+11:25:46 PM [express] Admin login attempt
+11:25:46 PM [express] Received password length: 11
+11:25:46 PM [express] Admin login successful
+11:25:46 PM [{"isAdmin":true}] Session state after login:
+11:25:46 PM [express] POST /api/admin/login 200 in 4ms :: {"success":true}
+11:25:47 PM [express] Session Debug - Admin: false
+11:25:47 PM [express] Session check - isAdmin: false
+11:25:47 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:47.090Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:47 PM [express] GET /api/admin/session 304 in 9ms :: {"isAdmin":false}
+11:25:47 PM [express] Session Debug - Admin: false
+11:25:47 PM [express] Session check - isAdmin: false
+11:25:47 PM [{"cookie":{"originalMaxAge":86400000,"expires":"2025-03-06T23:25:47.551Z","secure":true,"httpOnly":true,"path":"/","sameSite":"none"}}] Full session state:
+11:25:47 PM [express] GET /api/admin/session 200 in 7ms :: {"isAdmin":false}
+11:25:48 PM [express] Session Debug - Admin: false
+11:25:48 PM [express] GET /favicon.ico 304 in 10ms
+11:25:48 PM [express] Session Debug - Admin: false
+11:25:48 PM [express] GET /favicon.ico 304 in 19ms

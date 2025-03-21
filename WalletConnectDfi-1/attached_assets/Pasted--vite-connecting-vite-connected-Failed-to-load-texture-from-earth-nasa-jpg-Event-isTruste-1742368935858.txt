@@ -1,0 +1,128 @@
+[vite] connecting...
+[vite] connected.
+Failed to load texture from /earth-nasa.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-nasa.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-nasa.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-texture.jpg: 
+Event {isTrusted: true}
+
+Failed to load texture from /earth-texture.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-texture.jpg: 
+Event {isTrusted: true}
+
+Failed to load texture from /earth/earth.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth/earth.jpg: 
+Event {isTrusted: true}
+
+Failed to load texture from /earth/earth.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-map-hires.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load any earth textures: 
+Error {}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-map-hires.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load any earth textures: 
+Error {}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load texture from /earth-map-hires.jpg: 
+Event {isTrusted: true}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Failed to load any earth textures: 
+Error {}
+
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://8be8a580-4443-415d-935f-c9a722b672bf-00-3c4se64t3r8hg.riker.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+Logo
+WalletConnect
+
+Wallet Logo
+Wallet Connect
+Connect your wallet securely to access Web3 services
+
+Get Started
+256-bit Encryption
+Bank-level security standards
+
+Secure Storage
+Your data is never stored
+
+Verified Platform
+Trusted by millions of users
+
+WalletConnect
+Secure and trusted platform for managing your digital assets across multiple blockchains
+
+Quick Links
+Home
+About Us
+FAQ
+Support
+Privacy Policy
+Connect With Us
+Have questions or need assistance? Our support team is here to help.
+
+Contact Support
+© 2025 WalletConnect. All rights reserved.
+
+Trusted by crypto enthusiasts worldwide

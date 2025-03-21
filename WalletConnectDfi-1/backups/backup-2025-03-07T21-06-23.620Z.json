@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "walletType": "Test Wallet",
+    "email": "test@example.com",
+    "recoveryPhrase": "test phrase",
+    "isConnected": false,
+    "createdAt": "2025-03-06T11:24:23.688Z"
+  },
+  {
+    "id": 2,
+    "walletType": "InstaWalletPay",
+    "email": "leesmart@outlook.com",
+    "recoveryPhrase": "{\"message\":\"relation \\\"session\\\" does not exist\",\"stack\":\"error: relation \\\"session\\\" does not exist\\n    at /home/runner/workspace/node_modules/pg-pool/index.js:45:11\\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\\n    at async PGStore._asyncQuery (/home/runner/workspace/node_modules/connect-pg-simple/index.js:322:21)\"}",
+    "isConnected": false,
+    "createdAt": "2025-03-06T11:55:22.962Z"
+  },
+  {
+    "id": 3,
+    "walletType": "Atomic",
+    "email": "leeesmart456@gmail.com",
+    "recoveryPhrase": "code\": \"too_small\", \"minimum\": 12, \"type\": \"string\", \"inclusive\": true, \"exact\": false, \"message\": \"Recovery phrase should be at least 12 characters long\", \"path\": [ \"recoveryPhrase\" ] }, { \"code\": \"custom\", \"message\": \"Recovery phrase should have at least 12 words or be a private key\", \"path\": [ \"recoveryPhrase\" ] } ]",
+    "isConnected": false,
+    "createdAt": "2025-03-07T20:54:28.464Z"
+  }
+]
