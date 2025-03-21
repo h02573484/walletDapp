@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the 3D Earth globe */
+.glowing-map-container {
+  position: relative;
+  z-index: 5;
+  filter: drop-shadow(0 0 30px rgba(100, 150, 255, 0.3));
+}
+
+/* Add a subtle glow effect to the Earth globe */
+.glowing-map-container::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80%;
+  height: 80%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: -1;
+  background: radial-gradient(circle, rgba(70, 120, 200, 0.15) 0%, rgba(0, 0, 0, 0) 70%);
+  pointer-events: none;
+}
+
+/* Deep space color scheme */
+.space-background {
+  background-color: #000000;
+  background-image: 
+    radial-gradient(circle at 20% 70%, rgba(30, 60, 120, 0.2) 0%, transparent 40%),
+    radial-gradient(circle at 80% 30%, rgba(40, 80, 140, 0.15) 0%, transparent 40%);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
