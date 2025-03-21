@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DeFi Wallet Connect</title>
+    <script type="module">
+      // Type-safe polyfills
+      window.global = window;
+      window.process = { 
+        env: { 
+          NODE_ENV: import.meta.env.MODE,
+          VITE_API_URL: import.meta.env.VITE_API_URL 
+        } 
+      };
+
+      // Buffer polyfill
+      window.Buffer = {
+        from: function(data) {
+          if (typeof data === 'string') {
+            return new Uint8Array(Array.from(data).map(char => char.charCodeAt(0)));
+          }
+          return new Uint8Array(data);
+        },
+        alloc: function(size) {
+          return new Uint8Array(size);
+        }
+      };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
